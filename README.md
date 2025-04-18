@@ -1,3 +1,3 @@
-Assignment 3: AI Tools
-Assignment 2: Recommendation systems
-Assignment 1: AI Problem Solving
+Sweden, Chalmers,
+Master Level Course,
+25 SP3
